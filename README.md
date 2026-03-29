@@ -10,7 +10,7 @@
 
 # 💻 Tech stack
 <div align="end">
-    <img src="https://skillicons.dev/icons?i=go,docker,postgres,kafka,redis,git,kubernetes,nginx"/>
+    <img src="https://skillicons.dev/icons?i=go,docker,postgres,kafka,redis,git,nginx"/>
 </div>
 
 # 📌 Leetcode
